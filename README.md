@@ -26,7 +26,7 @@ O projeto de automação tem como objetivo ajudar a executar muitos casos de tes
 Para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com suas
 funções.
 
-- ### **base-ruby-qa**
+- ### **base-restassured-qa**
     - ***Clients***
         - Contém os arquivos Java que possuem métodos de validação, manipulação, requisições e tratamento de dados
 
@@ -54,7 +54,7 @@ funções.
            
 ## ⏩ Execução
    - ### **1º Passo**
-        - ***Isntale asdependências do projeto***
+        - ***Instale asdependências do projeto***
           - ```Java JDK 20```
           - ```IntelliJ```
           
