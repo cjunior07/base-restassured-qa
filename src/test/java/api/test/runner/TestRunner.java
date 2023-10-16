@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 import org.testng.annotations.DataProvider;
 
 @CucumberOptions(
-        tags = "@Regression",
+        tags = "@validateFieldsCreationUser",
         features = {"src/test/resources/features/"},
         glue = {"classpath:api/test"},
         snippets = CucumberOptions.SnippetType.CAMELCASE,

@@ -8,5 +8,5 @@ Feature: Edit a User
     And I make a POST request to the path /users
     When I make a PATCH request to the path /users/{id}
     Then it should return the status code 200
-    And it should return the contract "patch.json"
+    And it should return the contract "editUser.json"
 
