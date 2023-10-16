@@ -54,7 +54,7 @@ funções.
            
 ## ⏩ Execução
    - ### **1º Passo**
-        - ***Instale asdependências do projeto***
+        - ***Instale as dependências do projeto***
           - ```Java JDK 20```
           - ```IntelliJ```
           
